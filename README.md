@@ -24,6 +24,8 @@ Analyzed global COVID-19 data using SQL Server and Tableau to explore reported c
 
 ## Tableau Dashboard
 Created an interactive dashboard to visualize global COVID-19 statistics, geographical infection patterns, and country-level trends.
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ramandeep.kaur3820/viz/COVID-19GlobalOverview_17916190887920/Dashboard1)
+
 
 ## Project Files
 - [SQL Queries](COVID%20Portfolio%20Project.sql)
