@@ -34,4 +34,7 @@ Created an interactive dashboard to visualize global COVID-19 statistics, geogra
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 - [Alex The Analyst - Portfolio Projects](https://github.com/AlexTheAnalyst/PortfolioProjects)
 
-This project was completed following Alex The Analyst's portfolio tutorials.
+### Dashboard Preview
+
+![COVID-19 Tableau Dashboard](covid-dashboard.png)
+
